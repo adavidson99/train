@@ -1,2 +1,2 @@
 # train
-animated train scene using OpenGL
+animated railway scene using OpenGL
