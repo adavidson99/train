@@ -5,10 +5,17 @@ There are a number of objects and animations that are included in my railway sce
 
 ## Movement
 The function keys to navigate the scene include:
+
 Up arrow: Move camera forward in the current direction
+
 Down arrow: Move camera backward in the current direction
+
 Left arrow: Change the current direction towards left by a certain angle
+
 Right arrow: Change the current direction towards right by a certain angle
+
 Page-up: Increase camera height
+
 Page-down: Decrease camera height
+
 ‘c’: switch view modes between the default, cab view, and train station view
