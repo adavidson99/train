@@ -19,3 +19,6 @@ Page-up: Increase camera height
 Page-down: Decrease camera height
 
 ‘c’: switch view modes between the default, cab view, and train station view
+
+
+![screeny1](https://user-images.githubusercontent.com/99695975/184084343-bb8cf07e-3149-4711-a30c-e2815ff5e164.png)
